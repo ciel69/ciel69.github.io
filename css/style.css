@@ -101,7 +101,7 @@ p {
 /*--------------end Header--------------*/
 
 .block-start {
-    background: url("../images/system/block-start-bg.jpg");
+    background: url("../images/system/block-start-bg.jpg") no-repeat center center fixed;
     padding: 45px 0 45px 0;
     background-size: cover;
 }
